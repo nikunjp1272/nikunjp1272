@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikunj
 - 👀 I’m interested in gaming, coding, editing, writing
 - 🌱 I’m currently learning python, javascript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Collatz Conjecture, Web Development, HTML, CSS, JS projects
 - 📫 How to reach me nikunjp1272@gmail.com
 
 <!---
