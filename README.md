@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikunj
-- 👀 I’m interested in Blockchain Development, Cloud Computing, Game Development, and Writing.
-- 🌱 I’m currently learning Python, Javascript, AWS, and Microsoft Power Platform.
-- 💞️ I’m looking to collaborate on Collatz Conjecture, Web Development, HTML, CSS, JS, AWS projects.
+- 👀 Interested in Python Development, Cloud Computing, a bit of Game Development, and working on Visualizations.
+- 🌱 I’m currently learning about Python, Javascript, AWS, and Linux.
+- 💞️ I’m looking to collaborate on more visualizations on the Collatz Conjecture, Web Development, Web Development projects, and AWS projects.
 - 📫 Reach me at nikunjp1272@gmail.com
 
 <!---
